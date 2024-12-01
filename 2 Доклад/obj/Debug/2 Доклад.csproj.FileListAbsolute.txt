@@ -1,0 +1,7 @@
+C:\Users\boris\OneDrive\Desktop\2 Доклад\bin\Debug\2 Доклад.exe.config
+C:\Users\boris\OneDrive\Desktop\2 Доклад\bin\Debug\2 Доклад.exe
+C:\Users\boris\OneDrive\Desktop\2 Доклад\bin\Debug\2 Доклад.pdb
+C:\Users\boris\OneDrive\Desktop\2 Доклад\obj\Debug\2 Доклад.csproj.AssemblyReference.cache
+C:\Users\boris\OneDrive\Desktop\2 Доклад\obj\Debug\2 Доклад.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Desktop\2 Доклад\obj\Debug\2 Доклад.exe
+C:\Users\boris\OneDrive\Desktop\2 Доклад\obj\Debug\2 Доклад.pdb
